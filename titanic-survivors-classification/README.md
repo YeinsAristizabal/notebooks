@@ -17,11 +17,6 @@ Permite cargar y explorar los datos de pasajeros del Titanic, procesarlos, entre
 
 ---
 
-## 📷 **Ejemplos de Resultados**
-![titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
-
----
-
 **Desarrollado por [Yeins Aristizabal](https://www.linkedin.com/in/yeins-aristizabal/)**  
 
 🔗 [YouTube](https://www.youtube.com/@yeins-aristizabal-ai)
