@@ -24,4 +24,4 @@ Genera datos sintéticos con dos características y entrena un modelo de red neu
 ## 🧑‍💻 Author
 **Desarrollado por [Yeins Aristizabal](https://www.linkedin.com/in/yeins-aristizabal/)**  
 
-🔗 [YouTube](https://www.youtube.com/@yeins-aristizabal-ai)
+🔗 [YouTube]

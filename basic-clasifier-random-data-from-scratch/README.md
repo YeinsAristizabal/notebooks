@@ -13,4 +13,4 @@ Genera datos sintéticos y entrena un clasificador básico sin usar librerías d
 
 **Desarrollado por [Yeins Aristizabal](https://www.linkedin.com/in/yeins-aristizabal/)**
 
-🔗 [YouTube](https://www.youtube.com/@yeins-aristizabal-ai)
+🔗 [YouTube]

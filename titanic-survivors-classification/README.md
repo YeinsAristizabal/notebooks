@@ -19,4 +19,4 @@ Permite cargar y explorar los datos de pasajeros del Titanic, procesarlos, entre
 
 **Desarrollado por [Yeins Aristizabal](https://www.linkedin.com/in/yeins-aristizabal/)**  
 
-🔗 [YouTube](https://www.youtube.com/@yeins-aristizabal-ai)
+🔗 [YouTube]

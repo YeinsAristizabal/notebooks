@@ -22,4 +22,4 @@ Genera datos sintéticos y aplica el descenso de gradiente paso a paso para esti
 ## 🧑‍💻 Author
 **Desarrollado por [Yeins Aristizabal](https://www.linkedin.com/in/yeins-aristizabal/)**  
 
-🔗 [YouTube](https://www.youtube.com/@yeins-aristizabal-ai)
+🔗 [YouTube]

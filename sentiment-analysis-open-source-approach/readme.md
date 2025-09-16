@@ -26,4 +26,4 @@ Explica los conceptos básicos del procesamiento de texto y del análisis de sen
 
 **Desarrollado por [Yeins Aristizabal](https://www.linkedin.com/in/yeins-aristizabal/)**  
 
-🔗 [YouTube](https://www.youtube.com/@yeins-aristizabal-ai)
+🔗 [YouTube]

@@ -21,4 +21,4 @@ Entrena un modelo CNN para reconocer dígitos a partir de imágenes en escala de
 ## 🧑‍💻 Author
 **Desarrollado por [Yeins Aristizabal](https://www.linkedin.com/in/yeins-aristizabal/)**  
 
-🔗 [YouTube](https://www.youtube.com/@yeins-aristizabal-ai)
+🔗 [YouTube]

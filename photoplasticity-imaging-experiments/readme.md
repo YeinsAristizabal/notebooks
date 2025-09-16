@@ -24,4 +24,4 @@ Permite crear imágenes simuladas basadas en ecuaciones de esfuerzos fotoelásti
 
 **Desarrollado por [Yeins Aristizabal](https://www.linkedin.com/in/yeins-aristizabal/)**  
 
-🔗 [YouTube](https://www.youtube.com/@yeins-aristizabal-ai)
+🔗 [YouTube]

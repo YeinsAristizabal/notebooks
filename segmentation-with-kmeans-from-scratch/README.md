@@ -33,4 +33,4 @@ REF: [all-free-download.com](https://all-free-download.com/free-photos/beach-pic
 ## 🧑‍💻 Author
 **Desarrollado por [Yeins Aristizabal](https://www.linkedin.com/in/yeins-aristizabal/)**  
 
-🔗 [YouTube](https://www.youtube.com/@yeins-aristizabal-ai)
+🔗 [YouTube]
